@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LicencePlateGame</string>
+    <string name="main_title">License Plate Game</string>
+    <string name="first_letter_hint">A</string>
+    <string name="second_letter_hint">B</string>
+    <string name="third_letter_hint">C</string>
+    <string name="search_button">Find Words!</string>
+</resources>
